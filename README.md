@@ -1,2 +1,3 @@
 # hloworld
-this is first repository
+this is first repository.
+author-riya chaudhary
